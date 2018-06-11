@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <notebook>
+    <person id="0">
+      <name>sasha</name>
+      <address>kyiv</address>
+      <cash>1000</cash>
+      <education>sa</education>
+    </person>
+    <person id="1">
+      <name>stepa</name>
+      <address>lviv</address>
+      <cash>1500</cash>
+      <education>sa</education>
+    </person>
+    <person id="2">
+      <name>valera</name>
+      <address>dnipro</address>
+      <cash>17000</cash>
+      <education>sa</education>
+    </person>
+  </notebook>
+</catalog>
